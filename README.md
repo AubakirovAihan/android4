@@ -1,4 +1,4 @@
-# Rudenko_VTIP402_LAB6
+# lab 4 Aubakirov
 
 
 ![Screenshot](screnn1.png)
